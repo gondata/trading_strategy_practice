@@ -14,7 +14,7 @@ The code requires the following libraries:
 
 The required libraries can be installed using the `requirements.txt` file.
 
-How it Works
+## How it Works
 
 1. First, we import the necessary libraries and set up the yfinance override.
 2. We then define the assets to analyze, along with the start and end dates.
